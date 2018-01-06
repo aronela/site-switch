@@ -1,0 +1,8 @@
+{
+  "name": "Maria",
+  "job": "developer",
+  "skills": [
+    {"skill": "PHP"},
+    {"skill": "JS"}
+  ]
+}

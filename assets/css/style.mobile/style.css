@@ -1,0 +1,318 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,700");
+/*-------------------------HEADER--------------------------*/
+.header {
+  background-image: url("../img/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: Montserrat;
+  text-align: center; }
+
+.navbar-toggler {
+  position: absolute;
+  top: 8px; }
+
+.navbar-collapse {
+  width: 100%;
+  left: 0px;
+  top: 50px;
+  background: rgba(0, 0, 0, 0.65);
+  border-radius: 10px; }
+
+.search {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  max-width: 25%; }
+
+.search input {
+  background: transparent;
+  border: none;
+  border-radius: 10px; }
+
+.search input:focus {
+  background: rgba(255, 255, 255, 0.65); }
+
+.search i {
+  position: absolute;
+  top: 11px;
+  right: 11px; }
+
+.header p {
+  font-size: 40px; }
+
+.header .btn {
+  color: white;
+  background-color: #54d154; }
+
+.header .header-scroll {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  color: #333;
+  font-size: 20px; }
+
+/*-------------------------CONTENT--------------------------*/
+.content {
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: lighter;
+  color: #828181; }
+
+.content .btn {
+  color: white;
+  background-color: #54d154;
+  font-weight: bolder; }
+
+h2 {
+  font-weight: 40px;
+  font-weight: lighter; }
+
+hr {
+  width: 40px;
+  border: 1px solid #828181; }
+
+/*-------------------------WHAT-WE-DO--------------------------*/
+.what-we-do {
+  padding: 20px; }
+
+.what-we-do-pic {
+  background-color: #e1f3e1;
+  border-radius: 25%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 81px;
+  height: 81px;
+  text-align: center;
+  padding: 70px; }
+
+.what-we-do-pic.pic1 {
+  background-image: url("../img/what-we-do-pic1.png"); }
+
+.what-we-do-pic.pic2 {
+  background-image: url("../img/what-we-do-pic2.png"); }
+
+.what-we-do-pic.pic3 {
+  background-image: url("../img/what-we-do-pic3.png"); }
+
+.our-latest-work {
+  background-color: #54d154;
+  color: #207b20;
+  padding: 15px; }
+
+.our-latest-work hr {
+  border-color: #207b20; }
+
+.our-latest-work .nav-pills .nav-item .nav-link {
+  background-color: white;
+  border: 1px solid #2b9b2b;
+  color: #2b9b2b;
+  border-radius: 0; }
+
+.our-latest-work .nav-pills .nav-link.active {
+  background-color: #2b9b2b;
+  color: white; }
+
+.our-latest-work .nav-pills .nav-item:first-child .nav-link {
+  border-radius: 20px 0 0 20px; }
+
+.our-latest-work .nav-pills .nav-item:last-child .nav-link {
+  border-radius: 0 20px 20px 0; }
+
+.our-latest-work-pic {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.our-latest-work-pic1 {
+  background-image: url("../img/our-latest-work-pic1.jpg"); }
+
+.our-latest-work-pic2 {
+  background-image: url("../img/our-latest-work-pic2.jpg"); }
+
+.our-latest-work-pic3 {
+  background-image: url("../img/our-latest-work-pic3.jpg"); }
+
+.our-latest-work-pic4 {
+  background-image: url("../img/our-latest-work-pic4.jpg"); }
+
+.our-latest-work-pic5 {
+  background-image: url("../img/our-latest-work-pic5.jpg"); }
+
+.our-latest-work-pic6 {
+  background-image: url("../img/our-latest-work-pic6.jpg"); }
+
+.our-latest-work-pic7 {
+  background-image: url("../img/our-latest-work-pic7.jpg"); }
+
+.our-latest-work-pic8 {
+  background-image: url("../img/our-latest-work-pic8.jpg"); }
+
+.our-latest-work .btn {
+  background-color: #2b9b2b;
+  border-radius: 25px;
+  font-size: 12px; }
+
+/*----------------------------------TESTIMONY---------------------------------*/
+.testimony .carousel {
+  font-size: 14px;
+  color: #444444;
+  font-weight: bolder; }
+
+.testimony .mr-herp {
+  font-size: 16px; }
+
+.testimony .mr-herp2 {
+  color: #6c757d; }
+
+/*----------------------------------OUR-HAPPY-CLIENT---------------------------------*/
+.our-happy-client-logo {
+  background-repeat: no-repeat;
+  background-position: center;
+  max-width: 250px;
+  height: 120px; }
+
+.our-happy-client-logo.logo1 {
+  background-image: url("../img/logo-google.png"); }
+
+.our-happy-client-logo.logo2 {
+  background-image: url("../img/logo-yahoo.png"); }
+
+.our-happy-client-logo.logo3 {
+  background-image: url("../img/logo-qualcom.png"); }
+
+.our-happy-client-logo.logo4 {
+  background-image: url("../img/logo-microsoft.png"); }
+
+.our-happy-client-logo.logo5 {
+  background-image: url("../img/logo-cisco.png"); }
+
+.our-happy-client-logo.logo6 {
+  background-image: url("../img/logo-apple.png"); }
+
+.our-happy-client-logo.logo7 {
+  background-image: url("../img/logo-intel.png"); }
+
+.our-happy-client-logo.logo8 {
+  background-image: url("../img/logo-asus.png"); }
+
+.our-happy-client .btn {
+  background-color: #dddcdc;
+  color: #a59d9d;
+  font-size: 12px;
+  border-radius: 25px; }
+
+/*----------------------------------MEET-THE-TEAM---------------------------------*/
+.meet-the-team {
+  background-color: #54d154;
+  color: #207b20; }
+
+.meet-the-team hr {
+  border-color: #207b20; }
+
+.meet-the-team-pic {
+  background-repeat: no-repeat;
+  background-position: center 15px;
+  background-color: #ffffff;
+  max-width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: auto; }
+
+.meet-the-team-pic.pic1 {
+  background-image: url("../img/meet-the-team-1.jpg"); }
+
+.meet-the-team-pic.pic2 {
+  background-image: url("../img/meet-the-team-2.jpg"); }
+
+.meet-the-team-pic.pic3 {
+  background-image: url("../img/meet-the-team-3.jpg"); }
+
+.meet-the-team-pic.pic4 {
+  background-image: url("../img/meet-the-team-4.jpg"); }
+
+.meet-the-team-pic.pic5 {
+  background-image: url("../img/meet-the-team-5.jpg"); }
+
+.meet-the-team-text {
+  color: white;
+  padding-bottom: 5px; }
+
+.meet-the-team-icon {
+  display: inline-block;
+  background-color: #c5e9c5;
+  border-radius: 28px;
+  padding: 1px 10px; }
+
+.meet-the-team-button {
+  background-color: #3eba3e;
+  padding: 10px; }
+
+.meet-the-team-button .btn {
+  font-size: 12px;
+  border-radius: 35px; }
+
+/*-------------------------FOOTER--------------------------*/
+.footer {
+  background-color: #333333;
+  color: white;
+  font-family: Montserrat;
+  font-weight: lighter;
+  padding: 20px; }
+
+.footer h3 {
+  text-align: center;
+  font-weight: lighter; }
+
+/*-------------------------ABOUT-US--------------------------*/
+.about-us {
+  text-align: center; }
+
+/*-------------------------RECENT-POSTS--------------------------*/
+.recent-posts-pic {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 62px;
+  width: 62px; }
+
+.recent-posts-pic.pic1 {
+  background-image: url("../img/recent-posts-pic1.jpg"); }
+
+.recent-posts-pic.pic2 {
+  background-image: url("../img/recent-posts-pic2.jpg"); }
+
+.recent-posts-pic.pic3 {
+  background-image: url("../img/recent-posts-pic3.jpg"); }
+
+.recent-posts-pic.pic4 {
+  background-image: url("../img/recent-posts-pic4.jpg"); }
+
+.recent-posts-pic.pic5 {
+  background-image: url("../img/recent-posts-pic5.jpg"); }
+
+.recent-posts .btn {
+  color: white; }
+
+/*-------------------------CONTACT-US--------------------------*/
+.contact-us-text p {
+  text-align: center;
+  margin: 0; }
+
+@media all and (max-width: 576px) {
+  .navbar-collapse {
+    position: absolute; }
+
+  .our-latest-work .nav {
+    flex-wrap: nowrap; } }
+@media all and (min-width: 576px) {
+  /*-------------------------WHAT-WE-DO--------------------------*/
+  .what-we-do .tablet.row .what-we-do-pic {
+    margin-bottom: 15px; } }
+
+/*# sourceMappingURL=style.css.map */

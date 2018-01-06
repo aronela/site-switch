@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Art is Eternal Happiness",
+    "sections": [
+      {"title": "What we do"},
+      {"title": "Our latest work"},
+      {"title": "Our happy client"},
+      {"title": "Contact us"}
+    ],
+    "button": "Work with us"
+  },
+
+  "what_we_do": {
+    "title": "WHAT WE DO",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {
+        "title": "Lorem ipsum",
+        "content": "Lorem Ipsum. This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+        "button": "Learn more"
+      },
+      {
+        "title": "Lorem ipsum",
+        "content": "Lorem Ipsum. This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+        "button": "Learn more"
+      },
+      {
+        "title": "Lorem ipsum",
+        "content": "Lorem Ipsum. This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+        "button": "Learn more"
+      }
+    ]
+  },
+
+  "our_latest_work": {
+    "title": "OUR LATEST WORK",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {"button": "Photography"},
+      {"button": "Design"},
+      {"button": "Print"}
+    ],
+    "button": "View more work"
+  },
+
+  "testimony": {
+    "title": "TESTIMONY",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {
+        "content":  "Awalnya saya tidak menderita penyakit apapun, namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan tidak menderita penyakit apapun!",
+        "name": "Mr Herp",
+        "profession": "CEO of Meme, Inc."
+      },
+      {
+        "content":  "Loreima saya tidak menderita penyakit apapun, namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan tidak menderita penyakit apapun!",
+        "name": "Mr Muscle",
+        "profession": "CEO of Proper, Ny."
+      }
+    ]
+  },
+
+  "our_happy_client": {
+    "title":  "OUR-HAPPY-CLIENT",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "button": "See all cleints"
+  },
+
+  "meet_the_team": {
+    "title": "MEET THE TEAM",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {"name": "Krisna Wijaya"},
+      {"name": "Gabriel Yoshua"},
+      {"name": "Adik N.K.L"},
+      {"name": "Zan D.J"},
+      {"name": "Faizal Febri"}
+    ],
+    "button": "WORK WITH US"
+  },
+
+  "footer": {
+  "sections": [
+    {
+      "title": "ABOUT US",
+      "content": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Ut aliquammassanisl quis neque. Suspendisse in orci enim.Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus."
+    },
+    {
+      "title": "RECENT POSTS",
+      "sections": [
+        {"title": "Lorem Ipsum Dolor Sit Amet.",
+        "button": "MAGAZINE"},
+        {"title": "Lorem Ipsum Dolor Sit Amet.",
+          "button": "UI DESIGN"},
+        {"title": "Lorem Ipsum Dolor Sit Amet.",
+          "button": "PHOTOGRAPHY"},
+        {"title": "Lorem Ipsum Dolor Sit Amet.",
+          "button": "BOOK"},
+        {"title": "Lorem Ipsum Dolor Sit Amet.",
+          "button": "UI DESIGN"}
+      ]
+    },
+    {
+      "title": "CONTACT US",
+      "fields": [
+        {"adress": "10044 West 23th Street, Suite 721"},
+        {"city": "New York NY 10010"},
+        {"email": "Email: Username@email.com" },
+        {"phone": "Phone: +1 (0) 123 4567 890"},
+        {"fax": "Fax: +1 (0) 321 4567 890"}
+      ],
+      "button": "SEND"
+    }
+  ]
+  }
+}
+

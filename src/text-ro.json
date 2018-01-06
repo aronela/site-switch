@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Arta este fericirea eternă",
+    "sections": [
+      {"title": "Ce facem"},
+      {"title": "Munca noastră"},
+      {"title": "Clienții noștri"},
+      {"title": "Contactează-ne"}
+    ],
+    "button": "Lucrează cu noi"
+  },
+
+  "what_we_do": {
+    "title": "CE-FACEM",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {
+        "title": "Lorem ipsum",
+        "content": "Lorem Ipsum. This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+        "button": "Vezi mai mult"
+      },
+      {
+        "title": "Lorem ipsum",
+        "content": "Lorem Ipsum. This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+        "button": "Vezi mai mult"
+      },
+      {
+        "title": "Lorem ipsum",
+        "content": "Lorem Ipsum. This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.",
+        "button": "Vezi mai mult"
+      }
+    ]
+  },
+
+  "our_latest_work": {
+    "title": "MUNCA NOASTRĂ",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {"button": "Fotogrfie"},
+      {"button": "Design"},
+      {"button": "Imprimare"}
+    ],
+    "button": "Mai mult"
+  },
+
+  "testimony": {
+    "title": "OPINII",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {
+        "content":  "Awalnya saya tidak menderita penyakit apapun, namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan tidak menderita penyakit apapun!",
+        "name": "Dl Herp",
+        "profession": "Director Principal Meme, Inc."
+      },
+      {
+        "content":  "Loreima saya tidak menderita penyakit apapun, namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan tidak menderita penyakit apapun!",
+        "name": "Dl Muscle",
+        "profession": "Director Principal Proper, Ny."
+      }
+    ]
+  },
+
+  "our_happy_client": {
+    "title":  "CLIENȚI FERICIȚI",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "button": "Lista completă"
+  },
+
+  "meet_the_team": {
+    "title": "CUNOAȘTE ECHIPA",
+    "content": "Lorem ipsum dolor sit amet. Proin gravida nibh vel velit auctor aliquet.",
+    "sections": [
+      {"name": "Krisna Wijaya"},
+      {"name": "Gabriel Yoshua"},
+      {"name": "Adik N.K.L"},
+      {"name": "Zan D.J"},
+      {"name": "Faizal Febri"}
+    ],
+    "button": "LUCREAZĂ CU NOI"
+  },
+
+  "footer": {
+    "sections": [
+      {
+        "title": "DESPRE NOI",
+        "content": "Aceasta este varianta Photoshop de Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Ut aliquammassanisl quis neque. Suspendisse in orci enim.Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus."
+      },
+      {
+        "title": "POSTĂRI RECENTE",
+        "sections": [
+          {"title": "Lorem Ipsum Dolor Sit Amet.",
+            "button": "REVISTA"},
+          {"title": "Lorem Ipsum Dolor Sit Amet.",
+            "button": "UI DESIGN"},
+          {"title": "Lorem Ipsum Dolor Sit Amet.",
+            "button": "FOTOGRAFIE"},
+          {"title": "Lorem Ipsum Dolor Sit Amet.",
+            "button": "CARTE"},
+          {"title": "Lorem Ipsum Dolor Sit Amet.",
+            "button": "UI DESIGN"}
+        ]
+      },
+      {
+        "title": "CONTACTEAZĂ-NE",
+        "fields": [
+          {"adress": "10044, Strada Vest, nr 23, ap 721"},
+          {"city": "New York NY 10010"},
+          {"email": "Email: Username@email.com" },
+          {"phone": "Telefon: +1 (0) 123 4567 890"},
+          {"fax": "Fax: +1 (0) 321 4567 890"}
+        ],
+        "button": "TRIMITE"
+      }
+    ]
+  }
+}
+
