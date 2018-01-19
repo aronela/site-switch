@@ -1,5 +1,5 @@
 function language(lang) {
-    $.getJSON("text-" + lang + ".json", function (aronela) {
+    $.getJSON("/text-" + lang + ".json", function (aronela) {
         $("#header_title").text(aronela.header.title);
         $("#header_button").text(aronela.header.button);
         $("#header_sections1").text(aronela.header.sections[0].title);
@@ -29,7 +29,7 @@ function language_switcher() {
     }
 }
 
-language_switcher();
+//language_switcher();
 
 language('en');
 
@@ -41,5 +41,4 @@ if ('serviceWorker' in navigator) {
     catch(error) {
         console.log('SW reg failed');
     }
-}    
-
+}
